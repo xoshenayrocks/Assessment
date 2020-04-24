@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{84B17DE9-DFBF-474D-89BD-EF320C9EC987}|Default">
+  <MonoDevelop.Ide.ItemProperties.Assessment5b PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assessment5b/Views/Home/Sorry.cshtml">
+    <Files>
+      <File FileName="Assessment5b/Views/Home/Welcome.cshtml" Line="12" Column="8" IsPinned="True" />
+      <File FileName="Assessment5b/Views/Home/SpaceshipSelection.cshtml" Line="20" Column="14" />
+      <File FileName="Assessment5b/Models/SpaceshipSelectionViewModel.cs" />
+      <File FileName="Assessment5b/Views/Home/Spaceship.cshtml" Line="4" Column="37" />
+      <File FileName="Assessment5b/Views/Home/Sorry.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assessment5b" expanded="True">
+            <Node name="Assessment5b" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Sorry.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

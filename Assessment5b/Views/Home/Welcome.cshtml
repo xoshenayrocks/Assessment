@@ -1,0 +1,12 @@
+﻿@model WelcomeViewModel
+
+
+
+<form asp-controller="Home" asp-action="SubmitAge">
+    <div>
+        <label asp-for="Age"></label>
+        <input asp-for="Age" />
+
+        <input type="submit" value="submit" />
+    </div>
+</form>

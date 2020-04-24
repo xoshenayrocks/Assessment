@@ -1,0 +1,22 @@
+﻿@model SpaceshipSelectionViewModel
+
+
+<div>
+    <h2>Select your ship!</h2>
+</div>
+
+<ul>
+    @foreach (var shipName in Model.Ships)
+    {
+        <li>
+            <div>
+                <h4>@shipName</h4>
+                <a asp-controller="Home"
+                   asp-action="Spaceship"
+                   asp-route-shipName="@shipName">
+                    Select
+                </a>
+            </div>
+        </li>
+    }
+</ul>
